@@ -2,7 +2,7 @@ words = []
 
 print("Enter 3 Words")
 for i in range(1,4):
-    print(f"{i}.")
+    print(f"Word#{i}:")
     word = input()
     words.append(word)
 
