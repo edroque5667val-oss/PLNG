@@ -1,3 +1,4 @@
+#GRADE PROGRAM
 def inputCatch(callerFunc):
         try:
             uNum = int(input())
