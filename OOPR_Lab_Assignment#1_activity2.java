@@ -15,18 +15,18 @@ public class lab1activity2 {
         
         System.out.println("\nArithmetic Operation: ");
         float add = x + y;
-        System.out.println("Addition:" + add);
+        System.out.println("Addition x+y: " + add);
         float sub = x - y;
-        System.out.println("Subtraction:" + sub);
+        System.out.println("Subtraction x-y: " + sub);
         float mult = x * y;
-        System.out.println("Multiplication:" + mult);
+        System.out.println("Multiplication x*y: " + mult);
         float div = x/y; 
-        System.out.println("Division:" + div);
+        System.out.println("Division x/y: " + div);
         float mod = x%y;
-        System.out.println("Modulus:" + mod);
+        System.out.println("Modulus x%y: " + mod);
         float incre = x+1;
-        System.out.println("Increment:" + incre);
+        System.out.println("Increment x++: " + incre);
         float decre = x-1;
-        System.out.println("Decrement:" + decre);
+        System.out.println("Decrement x--: " + decre);
     }
 }
