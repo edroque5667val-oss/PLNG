@@ -1,3 +1,4 @@
+#ARITHMETIC PROGRAM
 def inputCatch(callerFunc, divOp):
     if divOp == True:
         try:
